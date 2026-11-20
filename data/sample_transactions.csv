@@ -1,0 +1,401 @@
+transaction_id,date,description,amount_gbp,currency,category,merchant_group
+SB00172,2026-10-06,H and M retail purchase,143.24,GBP,shopping,shopping_01
+SB00266,2026-09-14,Eon utility payment,125.24,GBP,bills,bills_03
+SB00197,2026-10-08,Boots new shoes,11.21,GBP,shopping,shopping_04
+SB00293,2026-10-31,Vodafone monthly service bill,116.51,GBP,bills,bills_06
+SB00118,2026-10-31,Northern Rail return travel ticket,48.27,GBP,transport,transport_04
+SB00047,2026-10-11,Asda weekly food basket,39.14,GBP,groceries,groceries_05
+SB00051,2026-09-18,Coop fresh fruit and veg,56.90,GBP,groceries,groceries_06
+SB00359,2026-10-22,Netflix leisure tickets,14.92,GBP,entertainment,entertainment_04
+SB00337,2026-10-14,Cineworld cinema tickets,23.24,GBP,entertainment,entertainment_02
+SB00285,2026-10-23,Severn Trent monthly service bill,108.00,GBP,bills,bills_05
+SB00206,2026-09-08,Waterstones books and stationery,69.15,GBP,shopping,shopping_05
+SB00207,2026-10-07,Waterstones online shopping,148.86,GBP,shopping,shopping_05
+SB00210,2026-09-06,Next shopping order,104.47,GBP,shopping,shopping_06
+SB00389,2026-09-25,Ticketmaster movie night,38.41,GBP,entertainment,entertainment_08
+SB00099,2026-09-22,Stagecoach travel pass,54.30,GBP,transport,transport_02
+SB00038,2026-09-24,Morrisons food essentials,72.59,GBP,groceries,groceries_04
+SB00219,2026-09-20,TK Maxx student supplies,108.75,GBP,shopping,shopping_07
+SB00028,2026-10-25,Aldi bread milk and eggs,31.40,GBP,groceries,groceries_03
+SB00163,2026-09-07,Primark student supplies,144.17,GBP,shopping,shopping_00
+SB00005,2026-09-07,Tesco supermarket groceries,62.33,GBP,groceries,groceries_00
+SB00018,2026-09-18,Lidl food shop,50.27,GBP,groceries,groceries_02
+SB00312,2026-10-13,Sky household bill payment,109.34,GBP,bills,bills_08
+SB00069,2026-10-29,Iceland supermarket groceries,19.28,GBP,groceries,groceries_08
+SB00002,2026-10-18,Tesco food shop,4.04,GBP,groceries,groceries_00
+SB00356,2026-09-04,Netflix entertainment booking,42.05,GBP,entertainment,entertainment_04
+SB00326,2026-09-21,Odeon music subscription,57.63,GBP,entertainment,entertainment_00
+SB00097,2026-10-19,Stagecoach bus ticket,45.78,GBP,transport,transport_02
+SB00025,2026-09-22,Aldi weekly groceries,64.54,GBP,groceries,groceries_03
+SB00111,2026-10-29,National Express student bus pass,45.24,GBP,transport,transport_03
+SB00350,2026-10-15,Spotify music subscription,57.74,GBP,entertainment,entertainment_03
+SB00082,2026-09-26,TfL train fare,49.60,GBP,transport,transport_00
+SB00013,2026-10-06,Sainsburys supermarket groceries,4.17,GBP,groceries,groceries_01
+SB00161,2026-10-17,Primark clothes purchase,68.96,GBP,shopping,shopping_00
+SB00347,2026-09-25,Spotify games purchase,61.04,GBP,entertainment,entertainment_03
+SB00092,2026-09-30,First Bus transport journey,50.61,GBP,transport,transport_01
+SB00120,2026-10-23,Northern Rail rail travel,41.61,GBP,transport,transport_04
+SB00226,2026-10-03,Sports Direct shopping order,37.92,GBP,shopping,shopping_08
+SB00080,2026-10-18,Local Pantry groceries top up,23.52,GBP,groceries,groceries_09
+SB00183,2026-09-01,Uniqlo online shopping,65.09,GBP,shopping,shopping_02
+SB00395,2026-10-25,Campus Cinema games purchase,35.94,GBP,entertainment,entertainment_09
+SB00049,2026-09-24,Coop weekly groceries,15.32,GBP,groceries,groceries_06
+SB00253,2026-10-11,British Gas monthly service bill,50.86,GBP,bills,bills_01
+SB00393,2026-09-01,Campus Cinema cinema tickets,43.07,GBP,entertainment,entertainment_09
+SB00100,2026-09-19,Stagecoach transport journey,10.93,GBP,transport,transport_02
+SB00284,2026-09-23,Severn Trent household utilities,158.83,GBP,bills,bills_05
+SB00158,2026-10-14,Campus Shuttle return travel ticket,6.23,GBP,transport,transport_09
+SB00169,2026-10-26,H and M clothes purchase,43.92,GBP,shopping,shopping_01
+SB00129,2026-10-19,Tramlink bus ticket,45.97,GBP,transport,transport_06
+SB00327,2026-09-29,Odeon leisure tickets,42.09,GBP,entertainment,entertainment_00
+SB00108,2026-09-13,National Express transport journey,51.68,GBP,transport,transport_03
+SB00032,2026-10-05,Aldi groceries top up,39.63,GBP,groceries,groceries_03
+SB00361,2026-10-06,Disney Plus cinema tickets,47.51,GBP,entertainment,entertainment_05
+SB00397,2026-10-05,Campus Cinema movie night,64.18,GBP,entertainment,entertainment_09
+SB00283,2026-10-23,Severn Trent direct debit bill,73.39,GBP,bills,bills_05
+SB00336,2026-10-23,Vue entertainment subscription,11.65,GBP,entertainment,entertainment_01
+SB00245,2026-10-16,Octopus monthly service bill,77.01,GBP,bills,bills_00
+SB00306,2026-09-24,Sky utility payment,72.56,GBP,bills,bills_08
+SB00380,2026-09-10,Xbox entertainment booking,15.33,GBP,entertainment,entertainment_07
+SB00271,2026-10-26,Eon utilities direct debit,85.57,GBP,bills,bills_03
+SB00385,2026-09-22,Ticketmaster cinema tickets,37.39,GBP,entertainment,entertainment_08
+SB00227,2026-09-09,Sports Direct student supplies,46.45,GBP,shopping,shopping_08
+SB00072,2026-09-14,Iceland groceries top up,27.77,GBP,groceries,groceries_08
+SB00165,2026-10-05,Primark new shoes,34.16,GBP,shopping,shopping_00
+SB00214,2026-09-14,Next books and stationery,45.72,GBP,shopping,shopping_06
+SB00317,2026-10-13,Virgin Media monthly service bill,145.77,GBP,bills,bills_09
+SB00382,2026-09-10,Xbox music subscription,60.84,GBP,entertainment,entertainment_07
+SB00024,2026-09-14,Lidl groceries top up,14.73,GBP,groceries,groceries_02
+SB00309,2026-10-13,Sky monthly service bill,110.86,GBP,bills,bills_08
+SB00087,2026-09-10,TfL student bus pass,10.78,GBP,transport,transport_00
+SB00067,2026-09-26,Iceland fresh fruit and veg,27.84,GBP,groceries,groceries_08
+SB00061,2026-09-15,Waitrose supermarket groceries,47.62,GBP,groceries,groceries_07
+SB00023,2026-09-18,Lidl weekly food basket,29.87,GBP,groceries,groceries_02
+SB00332,2026-09-06,Vue entertainment booking,57.97,GBP,entertainment,entertainment_01
+SB00292,2026-09-26,Vodafone household utilities,174.92,GBP,bills,bills_06
+SB00003,2026-09-16,Tesco fresh fruit and veg,24.53,GBP,groceries,groceries_00
+SB00131,2026-09-26,Tramlink travel pass,27.33,GBP,transport,transport_06
+SB00176,2026-10-30,H and M clothing order,18.28,GBP,shopping,shopping_01
+SB00199,2026-10-04,Boots online shopping,142.70,GBP,shopping,shopping_04
+SB00353,2026-09-15,Netflix cinema tickets,38.82,GBP,entertainment,entertainment_04
+SB00194,2026-10-05,Boots shopping order,123.54,GBP,shopping,shopping_04
+SB00368,2026-09-29,Disney Plus entertainment subscription,42.88,GBP,entertainment,entertainment_05
+SB00362,2026-09-21,Disney Plus streaming subscription,52.77,GBP,entertainment,entertainment_05
+SB00221,2026-10-30,TK Maxx new shoes,126.18,GBP,shopping,shopping_07
+SB00269,2026-10-10,Eon monthly service bill,141.16,GBP,bills,bills_03
+SB00279,2026-10-21,Thames Water utilities direct debit,60.16,GBP,bills,bills_04
+SB00394,2026-09-20,Campus Cinema streaming subscription,32.81,GBP,entertainment,entertainment_09
+SB00157,2026-09-30,Campus Shuttle commute fare,35.47,GBP,transport,transport_09
+SB00341,2026-10-01,Cineworld movie night,24.05,GBP,entertainment,entertainment_02
+SB00318,2026-10-14,Virgin Media energy or broadband bill,132.23,GBP,bills,bills_09
+SB00181,2026-09-26,Uniqlo new shoes,144.66,GBP,shopping,shopping_02
+SB00152,2026-10-22,Metro Travel rail travel,40.54,GBP,transport,transport_08
+SB00052,2026-10-30,Coop bread milk and eggs,59.49,GBP,groceries,groceries_06
+SB00090,2026-09-05,First Bus train fare,50.65,GBP,transport,transport_01
+SB00294,2026-09-08,Vodafone energy or broadband bill,17.04,GBP,bills,bills_06
+SB00261,2026-10-08,EDF monthly service bill,128.98,GBP,bills,bills_02
+SB00338,2026-09-15,Cineworld streaming subscription,29.42,GBP,entertainment,entertainment_02
+SB00399,2026-10-02,Campus Cinema leisure tickets,22.06,GBP,entertainment,entertainment_09
+SB00255,2026-10-06,British Gas utilities direct debit,152.78,GBP,bills,bills_01
+SB00037,2026-10-27,Morrisons supermarket groceries,52.66,GBP,groceries,groceries_04
+SB00363,2026-10-10,Disney Plus games purchase,40.25,GBP,entertainment,entertainment_05
+SB00096,2026-10-14,First Bus rail travel,11.18,GBP,transport,transport_01
+SB00154,2026-09-07,Campus Shuttle train fare,9.52,GBP,transport,transport_09
+SB00040,2026-09-05,Morrisons groceries top up,59.71,GBP,groceries,groceries_04
+SB00247,2026-10-03,Octopus utilities direct debit,94.50,GBP,bills,bills_00
+SB00278,2026-09-18,Thames Water energy or broadband bill,89.31,GBP,bills,bills_04
+SB00008,2026-10-08,Tesco groceries top up,9.12,GBP,groceries,groceries_00
+SB00360,2026-10-13,Netflix entertainment subscription,42.06,GBP,entertainment,entertainment_04
+SB00128,2026-10-30,Great Western rail travel,19.15,GBP,transport,transport_05
+SB00106,2026-09-20,National Express train fare,53.02,GBP,transport,transport_03
+SB00035,2026-09-19,Morrisons fresh fruit and veg,47.22,GBP,groceries,groceries_04
+SB00140,2026-09-01,City Cabs transport journey,19.84,GBP,transport,transport_07
+SB00083,2026-09-15,TfL travel pass,31.45,GBP,transport,transport_00
+SB00029,2026-10-09,Aldi supermarket groceries,30.17,GBP,groceries,groceries_03
+SB00300,2026-09-08,O2 household utilities,175.58,GBP,bills,bills_07
+SB00280,2026-09-25,Thames Water household bill payment,43.42,GBP,bills,bills_04
+SB00150,2026-10-07,Metro Travel return travel ticket,48.57,GBP,transport,transport_08
+SB00174,2026-10-05,H and M books and stationery,109.84,GBP,shopping,shopping_01
+SB00291,2026-09-23,Vodafone direct debit bill,99.46,GBP,bills,bills_06
+SB00390,2026-10-31,Ticketmaster music subscription,51.84,GBP,entertainment,entertainment_08
+SB00264,2026-09-24,EDF household bill payment,109.01,GBP,bills,bills_02
+SB00229,2026-10-27,Sports Direct new shoes,14.27,GBP,shopping,shopping_08
+SB00323,2026-09-14,Odeon games purchase,27.50,GBP,entertainment,entertainment_00
+SB00101,2026-09-11,Stagecoach commute fare,37.41,GBP,transport,transport_02
+SB00034,2026-09-06,Morrisons food shop,33.00,GBP,groceries,groceries_04
+SB00119,2026-09-06,Northern Rail student bus pass,8.25,GBP,transport,transport_04
+SB00215,2026-10-16,Next online shopping,112.72,GBP,shopping,shopping_06
+SB00184,2026-09-17,Uniqlo clothing order,66.96,GBP,shopping,shopping_02
+SB00272,2026-10-22,Eon household bill payment,61.24,GBP,bills,bills_03
+SB00376,2026-09-16,Steam entertainment subscription,27.40,GBP,entertainment,entertainment_06
+SB00188,2026-10-21,Argos retail purchase,122.68,GBP,shopping,shopping_03
+SB00074,2026-10-27,Local Pantry food shop,34.41,GBP,groceries,groceries_09
+SB00369,2026-10-19,Steam cinema tickets,25.23,GBP,entertainment,entertainment_06
+SB00258,2026-10-31,EDF utility payment,32.65,GBP,bills,bills_02
+SB00225,2026-10-05,Sports Direct clothes purchase,15.00,GBP,shopping,shopping_08
+SB00187,2026-10-15,Argos student supplies,72.30,GBP,shopping,shopping_03
+SB00281,2026-10-25,Severn Trent monthly bill,20.68,GBP,bills,bills_05
+SB00105,2026-10-26,National Express bus ticket,10.51,GBP,transport,transport_03
+SB00001,2026-09-08,Tesco weekly groceries,54.38,GBP,groceries,groceries_00
+SB00325,2026-10-09,Odeon movie night,51.51,GBP,entertainment,entertainment_00
+SB00020,2026-10-19,Lidl bread milk and eggs,2.53,GBP,groceries,groceries_02
+SB00287,2026-10-13,Severn Trent utilities direct debit,15.75,GBP,bills,bills_05
+SB00316,2026-09-13,Virgin Media household utilities,49.70,GBP,bills,bills_09
+SB00041,2026-10-13,Asda weekly groceries,5.75,GBP,groceries,groceries_05
+SB00352,2026-10-20,Spotify entertainment subscription,12.73,GBP,entertainment,entertainment_03
+SB00068,2026-09-05,Iceland bread milk and eggs,23.93,GBP,groceries,groceries_08
+SB00303,2026-10-16,O2 utilities direct debit,22.54,GBP,bills,bills_07
+SB00054,2026-10-09,Coop food essentials,7.84,GBP,groceries,groceries_06
+SB00211,2026-10-13,Next student supplies,71.68,GBP,shopping,shopping_06
+SB00351,2026-10-28,Spotify leisure tickets,4.45,GBP,entertainment,entertainment_03
+SB00146,2026-09-16,Metro Travel train fare,43.91,GBP,transport,transport_08
+SB00235,2026-10-12,Campus Store student supplies,135.23,GBP,shopping,shopping_09
+SB00110,2026-10-05,National Express return travel ticket,15.03,GBP,transport,transport_03
+SB00305,2026-10-30,Sky monthly bill,178.36,GBP,bills,bills_08
+SB00077,2026-09-09,Local Pantry supermarket groceries,23.69,GBP,groceries,groceries_09
+SB00114,2026-09-08,Northern Rail train fare,3.39,GBP,transport,transport_04
+SB00116,2026-09-16,Northern Rail transport journey,26.99,GBP,transport,transport_04
+SB00267,2026-10-13,Eon direct debit bill,89.76,GBP,bills,bills_03
+SB00373,2026-09-16,Steam movie night,55.34,GBP,entertainment,entertainment_06
+SB00058,2026-09-25,Waitrose food shop,39.86,GBP,groceries,groceries_07
+SB00159,2026-10-12,Campus Shuttle student bus pass,55.33,GBP,transport,transport_09
+SB00213,2026-09-21,Next new shoes,88.65,GBP,shopping,shopping_06
+SB00156,2026-09-28,Campus Shuttle transport journey,30.82,GBP,transport,transport_09
+SB00107,2026-10-03,National Express travel pass,54.14,GBP,transport,transport_03
+SB00286,2026-09-15,Severn Trent energy or broadband bill,82.57,GBP,bills,bills_05
+SB00228,2026-10-27,Sports Direct retail purchase,60.18,GBP,shopping,shopping_08
+SB00064,2026-09-04,Waitrose groceries top up,65.56,GBP,groceries,groceries_07
+SB00314,2026-10-15,Virgin Media utility payment,139.85,GBP,bills,bills_09
+SB00205,2026-09-16,Waterstones new shoes,144.20,GBP,shopping,shopping_05
+SB00145,2026-09-05,Metro Travel bus ticket,28.86,GBP,transport,transport_08
+SB00171,2026-10-26,H and M student supplies,135.38,GBP,shopping,shopping_01
+SB00322,2026-09-20,Odeon streaming subscription,4.03,GBP,entertainment,entertainment_00
+SB00203,2026-10-09,Waterstones student supplies,14.22,GBP,shopping,shopping_05
+SB00162,2026-10-22,Primark shopping order,58.59,GBP,shopping,shopping_00
+SB00148,2026-09-14,Metro Travel transport journey,41.56,GBP,transport,transport_08
+SB00019,2026-10-26,Lidl fresh fruit and veg,68.30,GBP,groceries,groceries_02
+SB00192,2026-09-14,Argos clothing order,51.61,GBP,shopping,shopping_03
+SB00349,2026-09-10,Spotify movie night,23.98,GBP,entertainment,entertainment_03
+SB00017,2026-09-29,Lidl weekly groceries,20.05,GBP,groceries,groceries_02
+SB00030,2026-10-22,Aldi food essentials,23.66,GBP,groceries,groceries_03
+SB00217,2026-09-26,TK Maxx clothes purchase,46.51,GBP,shopping,shopping_07
+SB00234,2026-10-10,Campus Store shopping order,52.56,GBP,shopping,shopping_09
+SB00198,2026-10-03,Boots books and stationery,81.11,GBP,shopping,shopping_04
+SB00298,2026-09-23,O2 utility payment,150.39,GBP,bills,bills_07
+SB00088,2026-09-11,TfL rail travel,53.20,GBP,transport,transport_00
+SB00113,2026-10-02,Northern Rail bus ticket,28.35,GBP,transport,transport_04
+SB00345,2026-10-07,Spotify cinema tickets,55.59,GBP,entertainment,entertainment_03
+SB00121,2026-10-19,Great Western bus ticket,7.46,GBP,transport,transport_05
+SB00212,2026-10-07,Next retail purchase,98.62,GBP,shopping,shopping_06
+SB00147,2026-10-13,Metro Travel travel pass,24.61,GBP,transport,transport_08
+SB00324,2026-10-21,Odeon entertainment booking,39.21,GBP,entertainment,entertainment_00
+SB00358,2026-09-30,Netflix music subscription,13.94,GBP,entertainment,entertainment_04
+SB00288,2026-09-26,Severn Trent household bill payment,71.28,GBP,bills,bills_05
+SB00164,2026-09-13,Primark retail purchase,43.73,GBP,shopping,shopping_00
+SB00201,2026-09-06,Waterstones clothes purchase,86.20,GBP,shopping,shopping_05
+SB00179,2026-10-02,Uniqlo student supplies,69.58,GBP,shopping,shopping_02
+SB00075,2026-10-12,Local Pantry fresh fruit and veg,76.91,GBP,groceries,groceries_09
+SB00246,2026-09-14,Octopus energy or broadband bill,120.35,GBP,bills,bills_00
+SB00328,2026-10-14,Odeon entertainment subscription,40.22,GBP,entertainment,entertainment_00
+SB00012,2026-10-09,Sainsburys bread milk and eggs,43.39,GBP,groceries,groceries_01
+SB00218,2026-10-13,TK Maxx shopping order,24.44,GBP,shopping,shopping_07
+SB00033,2026-10-30,Morrisons weekly groceries,12.22,GBP,groceries,groceries_04
+SB00137,2026-09-02,City Cabs bus ticket,29.49,GBP,transport,transport_07
+SB00387,2026-09-04,Ticketmaster games purchase,38.06,GBP,entertainment,entertainment_08
+SB00004,2026-09-09,Tesco bread milk and eggs,20.28,GBP,groceries,groceries_00
+SB00078,2026-10-18,Local Pantry food essentials,22.20,GBP,groceries,groceries_09
+SB00046,2026-09-18,Asda food essentials,33.13,GBP,groceries,groceries_05
+SB00093,2026-09-17,First Bus commute fare,45.14,GBP,transport,transport_01
+SB00355,2026-10-04,Netflix games purchase,61.00,GBP,entertainment,entertainment_04
+SB00076,2026-09-10,Local Pantry bread milk and eggs,39.58,GBP,groceries,groceries_09
+SB00302,2026-09-17,O2 energy or broadband bill,70.28,GBP,bills,bills_07
+SB00374,2026-09-29,Steam music subscription,26.49,GBP,entertainment,entertainment_06
+SB00073,2026-10-02,Local Pantry weekly groceries,55.69,GBP,groceries,groceries_09
+SB00153,2026-09-13,Campus Shuttle bus ticket,35.14,GBP,transport,transport_09
+SB00135,2026-09-16,Tramlink student bus pass,11.71,GBP,transport,transport_06
+SB00282,2026-09-15,Severn Trent utility payment,162.23,GBP,bills,bills_05
+SB00256,2026-10-06,British Gas household bill payment,148.14,GBP,bills,bills_01
+SB00301,2026-10-28,O2 monthly service bill,134.22,GBP,bills,bills_07
+SB00071,2026-10-16,Iceland weekly food basket,73.79,GBP,groceries,groceries_08
+SB00262,2026-09-28,EDF energy or broadband bill,56.52,GBP,bills,bills_02
+SB00310,2026-10-17,Sky energy or broadband bill,48.83,GBP,bills,bills_08
+SB00379,2026-09-06,Xbox games purchase,48.24,GBP,entertainment,entertainment_07
+SB00259,2026-10-05,EDF direct debit bill,56.84,GBP,bills,bills_02
+SB00257,2026-09-08,EDF monthly bill,11.16,GBP,bills,bills_02
+SB00177,2026-10-25,Uniqlo clothes purchase,126.46,GBP,shopping,shopping_02
+SB00196,2026-09-04,Boots retail purchase,54.38,GBP,shopping,shopping_04
+SB00315,2026-10-06,Virgin Media direct debit bill,104.88,GBP,bills,bills_09
+SB00242,2026-10-18,Octopus utility payment,43.07,GBP,bills,bills_00
+SB00232,2026-10-24,Sports Direct clothing order,74.79,GBP,shopping,shopping_08
+SB00081,2026-09-28,TfL bus ticket,49.68,GBP,transport,transport_00
+SB00050,2026-09-14,Coop food shop,31.10,GBP,groceries,groceries_06
+SB00185,2026-10-21,Argos clothes purchase,131.46,GBP,shopping,shopping_03
+SB00031,2026-10-17,Aldi weekly food basket,5.55,GBP,groceries,groceries_03
+SB00060,2026-10-15,Waitrose bread milk and eggs,54.42,GBP,groceries,groceries_07
+SB00344,2026-10-27,Cineworld entertainment subscription,37.95,GBP,entertainment,entertainment_02
+SB00263,2026-09-03,EDF utilities direct debit,49.76,GBP,bills,bills_02
+SB00377,2026-09-22,Xbox cinema tickets,26.25,GBP,entertainment,entertainment_07
+SB00117,2026-09-16,Northern Rail commute fare,6.54,GBP,transport,transport_04
+SB00357,2026-09-16,Netflix movie night,49.66,GBP,entertainment,entertainment_04
+SB00329,2026-10-03,Vue cinema tickets,21.50,GBP,entertainment,entertainment_01
+SB00391,2026-09-02,Ticketmaster leisure tickets,60.97,GBP,entertainment,entertainment_08
+SB00141,2026-10-16,City Cabs commute fare,7.61,GBP,transport,transport_07
+SB00191,2026-09-13,Argos online shopping,28.36,GBP,shopping,shopping_03
+SB00275,2026-10-18,Thames Water direct debit bill,66.77,GBP,bills,bills_04
+SB00089,2026-09-28,First Bus bus ticket,57.54,GBP,transport,transport_01
+SB00136,2026-09-05,Tramlink rail travel,20.20,GBP,transport,transport_06
+SB00270,2026-10-30,Eon energy or broadband bill,58.64,GBP,bills,bills_03
+SB00122,2026-10-20,Great Western train fare,45.43,GBP,transport,transport_05
+SB00095,2026-10-14,First Bus student bus pass,2.74,GBP,transport,transport_01
+SB00149,2026-09-09,Metro Travel commute fare,45.97,GBP,transport,transport_08
+SB00170,2026-09-29,H and M shopping order,15.35,GBP,shopping,shopping_01
+SB00299,2026-09-28,O2 direct debit bill,110.78,GBP,bills,bills_07
+SB00063,2026-10-20,Waitrose weekly food basket,71.04,GBP,groceries,groceries_07
+SB00313,2026-09-21,Virgin Media monthly bill,141.82,GBP,bills,bills_09
+SB00104,2026-10-03,Stagecoach rail travel,16.43,GBP,transport,transport_02
+SB00057,2026-09-11,Waitrose weekly groceries,22.05,GBP,groceries,groceries_07
+SB00151,2026-09-16,Metro Travel student bus pass,40.52,GBP,transport,transport_08
+SB00048,2026-09-24,Asda groceries top up,70.33,GBP,groceries,groceries_05
+SB00009,2026-09-03,Sainsburys weekly groceries,36.56,GBP,groceries,groceries_01
+SB00230,2026-09-24,Sports Direct books and stationery,43.02,GBP,shopping,shopping_08
+SB00252,2026-09-22,British Gas household utilities,9.16,GBP,bills,bills_01
+SB00244,2026-10-09,Octopus household utilities,100.32,GBP,bills,bills_00
+SB00296,2026-09-03,Vodafone household bill payment,94.98,GBP,bills,bills_06
+SB00321,2026-10-24,Odeon cinema tickets,48.88,GBP,entertainment,entertainment_00
+SB00209,2026-09-03,Next clothes purchase,100.40,GBP,shopping,shopping_06
+SB00124,2026-10-01,Great Western transport journey,55.84,GBP,transport,transport_05
+SB00044,2026-09-15,Asda bread milk and eggs,72.06,GBP,groceries,groceries_05
+SB00098,2026-10-20,Stagecoach train fare,23.65,GBP,transport,transport_02
+SB00265,2026-10-28,Eon monthly bill,21.07,GBP,bills,bills_03
+SB00006,2026-10-18,Tesco food essentials,57.43,GBP,groceries,groceries_00
+SB00142,2026-09-04,City Cabs return travel ticket,53.49,GBP,transport,transport_07
+SB00144,2026-10-26,City Cabs rail travel,4.37,GBP,transport,transport_07
+SB00307,2026-09-05,Sky direct debit bill,149.32,GBP,bills,bills_08
+SB00133,2026-09-29,Tramlink commute fare,32.39,GBP,transport,transport_06
+SB00182,2026-09-11,Uniqlo books and stationery,12.60,GBP,shopping,shopping_02
+SB00370,2026-10-24,Steam streaming subscription,24.25,GBP,entertainment,entertainment_06
+SB00250,2026-10-24,British Gas utility payment,146.79,GBP,bills,bills_01
+SB00375,2026-10-16,Steam leisure tickets,10.34,GBP,entertainment,entertainment_06
+SB00167,2026-09-12,Primark online shopping,72.12,GBP,shopping,shopping_00
+SB00254,2026-09-11,British Gas energy or broadband bill,93.83,GBP,bills,bills_01
+SB00398,2026-10-28,Campus Cinema music subscription,53.41,GBP,entertainment,entertainment_09
+SB00367,2026-10-18,Disney Plus leisure tickets,17.03,GBP,entertainment,entertainment_05
+SB00366,2026-09-29,Disney Plus music subscription,48.88,GBP,entertainment,entertainment_05
+SB00238,2026-09-20,Campus Store books and stationery,93.86,GBP,shopping,shopping_09
+SB00320,2026-09-26,Virgin Media household bill payment,106.61,GBP,bills,bills_09
+SB00231,2026-09-11,Sports Direct online shopping,49.69,GBP,shopping,shopping_08
+SB00365,2026-09-28,Disney Plus movie night,45.35,GBP,entertainment,entertainment_05
+SB00045,2026-09-07,Asda supermarket groceries,72.98,GBP,groceries,groceries_05
+SB00126,2026-10-04,Great Western return travel ticket,23.51,GBP,transport,transport_05
+SB00166,2026-09-09,Primark books and stationery,76.50,GBP,shopping,shopping_00
+SB00138,2026-10-06,City Cabs train fare,49.99,GBP,transport,transport_07
+SB00400,2026-09-18,Campus Cinema entertainment subscription,21.97,GBP,entertainment,entertainment_09
+SB00339,2026-09-10,Cineworld games purchase,20.31,GBP,entertainment,entertainment_02
+SB00248,2026-09-17,Octopus household bill payment,168.08,GBP,bills,bills_00
+SB00276,2026-10-21,Thames Water household utilities,116.85,GBP,bills,bills_04
+SB00139,2026-10-08,City Cabs travel pass,20.65,GBP,transport,transport_07
+SB00268,2026-09-23,Eon household utilities,41.68,GBP,bills,bills_03
+SB00091,2026-09-25,First Bus travel pass,33.32,GBP,transport,transport_01
+SB00223,2026-10-10,TK Maxx online shopping,78.08,GBP,shopping,shopping_07
+SB00346,2026-10-16,Spotify streaming subscription,19.92,GBP,entertainment,entertainment_03
+SB00236,2026-09-01,Campus Store retail purchase,89.66,GBP,shopping,shopping_09
+SB00186,2026-09-19,Argos shopping order,77.54,GBP,shopping,shopping_03
+SB00222,2026-09-01,TK Maxx books and stationery,14.88,GBP,shopping,shopping_07
+SB00055,2026-09-11,Coop weekly food basket,54.01,GBP,groceries,groceries_06
+SB00251,2026-09-03,British Gas direct debit bill,98.66,GBP,bills,bills_01
+SB00364,2026-10-28,Disney Plus entertainment booking,62.92,GBP,entertainment,entertainment_05
+SB00007,2026-10-05,Tesco weekly food basket,75.08,GBP,groceries,groceries_00
+SB00175,2026-09-01,H and M online shopping,139.97,GBP,shopping,shopping_01
+SB00260,2026-10-24,EDF household utilities,19.80,GBP,bills,bills_02
+SB00354,2026-10-22,Netflix streaming subscription,18.40,GBP,entertainment,entertainment_04
+SB00190,2026-10-02,Argos books and stationery,120.70,GBP,shopping,shopping_03
+SB00378,2026-10-28,Xbox streaming subscription,30.19,GBP,entertainment,entertainment_07
+SB00273,2026-10-27,Thames Water monthly bill,66.01,GBP,bills,bills_04
+SB00178,2026-09-11,Uniqlo shopping order,41.72,GBP,shopping,shopping_02
+SB00022,2026-09-28,Lidl food essentials,59.19,GBP,groceries,groceries_02
+SB00290,2026-10-20,Vodafone utility payment,30.74,GBP,bills,bills_06
+SB00062,2026-09-21,Waitrose food essentials,58.08,GBP,groceries,groceries_07
+SB00308,2026-10-10,Sky household utilities,116.19,GBP,bills,bills_08
+SB00155,2026-09-28,Campus Shuttle travel pass,55.78,GBP,transport,transport_09
+SB00053,2026-10-12,Coop supermarket groceries,57.99,GBP,groceries,groceries_06
+SB00125,2026-09-11,Great Western commute fare,46.83,GBP,transport,transport_05
+SB00384,2026-09-27,Xbox entertainment subscription,9.26,GBP,entertainment,entertainment_07
+SB00039,2026-09-13,Morrisons weekly food basket,49.29,GBP,groceries,groceries_04
+SB00102,2026-09-01,Stagecoach return travel ticket,38.96,GBP,transport,transport_02
+SB00204,2026-10-14,Waterstones retail purchase,14.13,GBP,shopping,shopping_05
+SB00193,2026-10-08,Boots clothes purchase,12.58,GBP,shopping,shopping_04
+SB00295,2026-09-12,Vodafone utilities direct debit,93.59,GBP,bills,bills_06
+SB00331,2026-09-11,Vue games purchase,64.28,GBP,entertainment,entertainment_01
+SB00381,2026-09-25,Xbox movie night,22.94,GBP,entertainment,entertainment_07
+SB00297,2026-10-09,O2 monthly bill,43.52,GBP,bills,bills_07
+SB00056,2026-10-17,Coop groceries top up,45.75,GBP,groceries,groceries_06
+SB00160,2026-09-04,Campus Shuttle rail travel,9.86,GBP,transport,transport_09
+SB00084,2026-10-03,TfL transport journey,13.13,GBP,transport,transport_00
+SB00342,2026-10-25,Cineworld music subscription,54.07,GBP,entertainment,entertainment_02
+SB00335,2026-09-22,Vue leisure tickets,54.72,GBP,entertainment,entertainment_01
+SB00311,2026-10-03,Sky utilities direct debit,106.40,GBP,bills,bills_08
+SB00086,2026-10-26,TfL return travel ticket,5.65,GBP,transport,transport_00
+SB00189,2026-10-13,Argos new shoes,94.05,GBP,shopping,shopping_03
+SB00132,2026-10-12,Tramlink transport journey,56.82,GBP,transport,transport_06
+SB00239,2026-09-07,Campus Store online shopping,111.68,GBP,shopping,shopping_09
+SB00112,2026-10-09,National Express rail travel,1.84,GBP,transport,transport_03
+SB00383,2026-09-14,Xbox leisure tickets,61.86,GBP,entertainment,entertainment_07
+SB00059,2026-10-30,Waitrose fresh fruit and veg,24.11,GBP,groceries,groceries_07
+SB00243,2026-09-18,Octopus direct debit bill,58.93,GBP,bills,bills_00
+SB00065,2026-10-23,Iceland weekly groceries,20.76,GBP,groceries,groceries_08
+SB00123,2026-09-09,Great Western travel pass,12.10,GBP,transport,transport_05
+SB00079,2026-10-05,Local Pantry weekly food basket,47.98,GBP,groceries,groceries_09
+SB00388,2026-10-24,Ticketmaster entertainment booking,20.94,GBP,entertainment,entertainment_08
+SB00011,2026-09-15,Sainsburys fresh fruit and veg,19.91,GBP,groceries,groceries_01
+SB00103,2026-10-03,Stagecoach student bus pass,23.37,GBP,transport,transport_02
+SB00127,2026-09-28,Great Western student bus pass,51.49,GBP,transport,transport_05
+SB00016,2026-09-27,Sainsburys groceries top up,46.64,GBP,groceries,groceries_01
+SB00021,2026-09-11,Lidl supermarket groceries,68.01,GBP,groceries,groceries_02
+SB00334,2026-10-11,Vue music subscription,58.38,GBP,entertainment,entertainment_01
+SB00036,2026-10-11,Morrisons bread milk and eggs,69.94,GBP,groceries,groceries_04
+SB00333,2026-10-03,Vue movie night,27.24,GBP,entertainment,entertainment_01
+SB00115,2026-10-27,Northern Rail travel pass,31.53,GBP,transport,transport_04
+SB00180,2026-09-14,Uniqlo retail purchase,81.86,GBP,shopping,shopping_02
+SB00027,2026-09-07,Aldi fresh fruit and veg,33.12,GBP,groceries,groceries_03
+SB00277,2026-10-22,Thames Water monthly service bill,142.91,GBP,bills,bills_04
+SB00010,2026-09-06,Sainsburys food shop,4.44,GBP,groceries,groceries_01
+SB00241,2026-09-08,Octopus monthly bill,94.66,GBP,bills,bills_00
+SB00042,2026-10-20,Asda food shop,20.66,GBP,groceries,groceries_05
+SB00130,2026-09-13,Tramlink train fare,58.31,GBP,transport,transport_06
+SB00216,2026-09-16,Next clothing order,54.47,GBP,shopping,shopping_06
+SB00143,2026-09-05,City Cabs student bus pass,20.55,GBP,transport,transport_07
+SB00372,2026-10-02,Steam entertainment booking,46.70,GBP,entertainment,entertainment_06
+SB00396,2026-10-05,Campus Cinema entertainment booking,38.32,GBP,entertainment,entertainment_09
+SB00392,2026-09-25,Ticketmaster entertainment subscription,51.16,GBP,entertainment,entertainment_08
+SB00233,2026-10-16,Campus Store clothes purchase,92.00,GBP,shopping,shopping_09
+SB00109,2026-09-24,National Express commute fare,14.32,GBP,transport,transport_03
+SB00168,2026-09-30,Primark clothing order,48.63,GBP,shopping,shopping_00
+SB00195,2026-10-18,Boots student supplies,12.98,GBP,shopping,shopping_04
+SB00134,2026-09-29,Tramlink return travel ticket,44.19,GBP,transport,transport_06
+SB00026,2026-09-06,Aldi food shop,10.37,GBP,groceries,groceries_03
+SB00094,2026-10-26,First Bus return travel ticket,47.12,GBP,transport,transport_01
+SB00237,2026-10-23,Campus Store new shoes,112.42,GBP,shopping,shopping_09
+SB00070,2026-10-07,Iceland food essentials,79.24,GBP,groceries,groceries_08
+SB00220,2026-09-21,TK Maxx retail purchase,77.91,GBP,shopping,shopping_07
+SB00330,2026-10-21,Vue streaming subscription,42.76,GBP,entertainment,entertainment_01
+SB00043,2026-09-06,Asda fresh fruit and veg,25.70,GBP,groceries,groceries_05
+SB00386,2026-09-30,Ticketmaster streaming subscription,48.45,GBP,entertainment,entertainment_08
+SB00340,2026-09-03,Cineworld entertainment booking,6.00,GBP,entertainment,entertainment_02
+SB00289,2026-09-18,Vodafone monthly bill,115.56,GBP,bills,bills_06
+SB00304,2026-09-01,O2 household bill payment,150.88,GBP,bills,bills_07
+SB00202,2026-09-12,Waterstones shopping order,142.48,GBP,shopping,shopping_05
+SB00014,2026-10-16,Sainsburys food essentials,18.28,GBP,groceries,groceries_01
+SB00274,2026-09-02,Thames Water utility payment,143.10,GBP,bills,bills_04
+SB00319,2026-10-10,Virgin Media utilities direct debit,65.02,GBP,bills,bills_09
+SB00066,2026-10-22,Iceland food shop,4.62,GBP,groceries,groceries_08
+SB00240,2026-09-09,Campus Store clothing order,146.87,GBP,shopping,shopping_09
+SB00085,2026-09-06,TfL commute fare,42.22,GBP,transport,transport_00
+SB00371,2026-09-18,Steam games purchase,56.23,GBP,entertainment,entertainment_06
+SB00208,2026-10-08,Waterstones clothing order,43.33,GBP,shopping,shopping_05
+SB00348,2026-09-26,Spotify entertainment booking,44.49,GBP,entertainment,entertainment_03
+SB00343,2026-09-30,Cineworld leisure tickets,9.96,GBP,entertainment,entertainment_02
+SB00173,2026-09-04,H and M new shoes,19.04,GBP,shopping,shopping_01
+SB00200,2026-09-04,Boots clothing order,28.79,GBP,shopping,shopping_04
+SB00015,2026-10-15,Sainsburys weekly food basket,55.23,GBP,groceries,groceries_01
+SB00249,2026-09-06,British Gas monthly bill,24.64,GBP,bills,bills_01
+SB00224,2026-09-07,TK Maxx clothing order,95.24,GBP,shopping,shopping_07

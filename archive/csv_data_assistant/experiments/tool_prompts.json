@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "prompt": "Describe the dataset.",
+    "expected_tool": "dataset_info"
+  },
+  {
+    "id": 2,
+    "prompt": "How many rows and columns does this file have?",
+    "expected_tool": "dataset_info"
+  },
+  {
+    "id": 3,
+    "prompt": "Show the column names and their data types.",
+    "expected_tool": "dataset_info"
+  },
+  {
+    "id": 4,
+    "prompt": "Give me a basic overview of this CSV.",
+    "expected_tool": "dataset_info"
+  },
+  {
+    "id": 5,
+    "prompt": "Inspect the dataset structure.",
+    "expected_tool": "dataset_info"
+  },
+  {
+    "id": 6,
+    "prompt": "Find all missing values.",
+    "expected_tool": "find_nulls"
+  },
+  {
+    "id": 7,
+    "prompt": "Which columns contain nulls?",
+    "expected_tool": "find_nulls"
+  },
+  {
+    "id": 8,
+    "prompt": "Count the blank values in each column.",
+    "expected_tool": "find_nulls"
+  },
+  {
+    "id": 9,
+    "prompt": "Show missing-value percentages for every field.",
+    "expected_tool": "find_nulls"
+  },
+  {
+    "id": 10,
+    "prompt": "Are there any gaps in the data?",
+    "expected_tool": "find_nulls"
+  },
+  {
+    "id": 11,
+    "prompt": "Find duplicate rows.",
+    "expected_tool": "find_duplicates"
+  },
+  {
+    "id": 12,
+    "prompt": "How many exact repeated records are there?",
+    "expected_tool": "find_duplicates"
+  },
+  {
+    "id": 13,
+    "prompt": "Check for duplicates without removing them.",
+    "expected_tool": "find_duplicates"
+  },
+  {
+    "id": 14,
+    "prompt": "Count rows that repeat an earlier row.",
+    "expected_tool": "find_duplicates"
+  },
+  {
+    "id": 15,
+    "prompt": "Inspect this file for identical records.",
+    "expected_tool": "find_duplicates"
+  },
+  {
+    "id": 16,
+    "prompt": "Remove duplicate rows.",
+    "expected_tool": "remove_duplicates"
+  },
+  {
+    "id": 17,
+    "prompt": "Drop exact repeated records, keeping the first.",
+    "expected_tool": "remove_duplicates"
+  },
+  {
+    "id": 18,
+    "prompt": "Delete duplicates across all columns.",
+    "expected_tool": "remove_duplicates"
+  },
+  {
+    "id": 19,
+    "prompt": "Keep only the first copy of each identical row.",
+    "expected_tool": "remove_duplicates"
+  },
+  {
+    "id": 20,
+    "prompt": "Deduplicate the whole dataset.",
+    "expected_tool": "remove_duplicates"
+  },
+  {
+    "id": 21,
+    "prompt": "Fill missing units with the median.",
+    "expected_tool": "fill_missing"
+  },
+  {
+    "id": 22,
+    "prompt": "Replace null revenue values with the mean.",
+    "expected_tool": "fill_missing"
+  },
+  {
+    "id": 23,
+    "prompt": "Use the mode to fill missing region values.",
+    "expected_tool": "fill_missing"
+  },
+  {
+    "id": 24,
+    "prompt": "Fill empty customer_type cells with Unknown.",
+    "expected_tool": "fill_missing"
+  },
+  {
+    "id": 25,
+    "prompt": "Automatically impute missing units.",
+    "expected_tool": "fill_missing"
+  },
+  {
+    "id": 26,
+    "prompt": "Plot a histogram of revenue.",
+    "expected_tool": "create_chart"
+  },
+  {
+    "id": 27,
+    "prompt": "Make a bar chart counting orders by region.",
+    "expected_tool": "create_chart"
+  },
+  {
+    "id": 28,
+    "prompt": "Show units against revenue in a scatter plot.",
+    "expected_tool": "create_chart"
+  },
+  {
+    "id": 29,
+    "prompt": "Draw a chart of summed revenue per region.",
+    "expected_tool": "create_chart"
+  },
+  {
+    "id": 30,
+    "prompt": "Create a bar chart of mean revenue by product.",
+    "expected_tool": "create_chart"
+  },
+  {
+    "id": 31,
+    "prompt": "What is total revenue?",
+    "expected_tool": "query_sql"
+  },
+  {
+    "id": 32,
+    "prompt": "Which region has the highest total revenue?",
+    "expected_tool": "query_sql"
+  },
+  {
+    "id": 33,
+    "prompt": "How many orders have units above 3?",
+    "expected_tool": "query_sql"
+  },
+  {
+    "id": 34,
+    "prompt": "What is average revenue for Business customers?",
+    "expected_tool": "query_sql"
+  },
+  {
+    "id": 35,
+    "prompt": "What percentage of total revenue comes from Laptop orders?",
+    "expected_tool": "query_sql"
+  },
+  {
+    "id": 36,
+    "prompt": "Undo the last change.",
+    "expected_tool": "undo"
+  },
+  {
+    "id": 37,
+    "prompt": "Reverse the most recent data modification.",
+    "expected_tool": "undo"
+  },
+  {
+    "id": 38,
+    "prompt": "Put the data back as it was before my last edit.",
+    "expected_tool": "undo"
+  },
+  {
+    "id": 39,
+    "prompt": "Revert the duplicate removal.",
+    "expected_tool": "undo"
+  },
+  {
+    "id": 40,
+    "prompt": "Restore the previous dataset version.",
+    "expected_tool": "undo"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "run_id": "20261118T232717430400Z-seed42",
+  "note": "Seven hand-authored exploratory probes after training, not an independent validation study. Null expected_category denotes an unsupported transaction type. No tuning performed from these results.",
+  "cases": [
+    {
+      "description": "TESCO EXPRESS 0831",
+      "expected_category": "groceries",
+      "supported": true,
+      "predicted_category": "transport",
+      "model_score": 0.9779811501502991,
+      "needs_review": false,
+      "display_category": "transport",
+      "review_reason": "",
+      "scores": {
+        "groceries": 0.007251627743244171,
+        "transport": 0.9779811501502991,
+        "shopping": 0.004575177561491728,
+        "bills": 0.007817773148417473,
+        "entertainment": 0.0023742751218378544
+      }
+    },
+    {
+      "description": "TFL TRAVEL CH",
+      "expected_category": "transport",
+      "supported": true,
+      "predicted_category": "transport",
+      "model_score": 0.9964871406555176,
+      "needs_review": false,
+      "display_category": "transport",
+      "review_reason": "",
+      "scores": {
+        "groceries": 0.0010025155497714877,
+        "transport": 0.9964871406555176,
+        "shopping": 0.0009023324237205088,
+        "bills": 0.0012582242488861084,
+        "entertainment": 0.00034977332688868046
+      }
+    },
+    {
+      "description": "Monthly broadband direct debit",
+      "expected_category": "bills",
+      "supported": true,
+      "predicted_category": "bills",
+      "model_score": 0.9997240900993347,
+      "needs_review": false,
+      "display_category": "bills",
+      "review_reason": "",
+      "scores": {
+        "groceries": 0.00012394500663504004,
+        "transport": 4.9677983042784035e-05,
+        "shopping": 4.328196155256592e-05,
+        "bills": 0.9997240900993347,
+        "entertainment": 5.891361433896236e-05
+      }
+    },
+    {
+      "description": "Online cinema booking",
+      "expected_category": "entertainment",
+      "supported": true,
+      "predicted_category": "entertainment",
+      "model_score": 0.8928013443946838,
+      "needs_review": false,
+      "display_category": "entertainment",
+      "review_reason": "",
+      "scores": {
+        "groceries": 0.00496288388967514,
+        "transport": 0.0015759224770590663,
+        "shopping": 0.09699257463216782,
+        "bills": 0.003667303826659918,
+        "entertainment": 0.8928013443946838
+      }
+    },
+    {
+      "description": "Clothes and stationery",
+      "expected_category": "shopping",
+      "supported": true,
+      "predicted_category": "shopping",
+      "model_score": 0.9991806149482727,
+      "needs_review": false,
+      "display_category": "shopping",
+      "review_reason": "",
+      "scores": {
+        "groceries": 0.00034267589217051864,
+        "transport": 0.0002419545198790729,
+        "shopping": 0.9991806149482727,
+        "bills": 9.46120562730357e-05,
+        "entertainment": 0.00014004521653987467
+      }
+    },
+    {
+      "description": "CASHPOINT WITHDRAWAL",
+      "expected_category": null,
+      "supported": false,
+      "predicted_category": "transport",
+      "model_score": 0.36496201157569885,
+      "needs_review": true,
+      "display_category": "needs review",
+      "review_reason": "Low model score",
+      "scores": {
+        "groceries": 0.21202459931373596,
+        "transport": 0.36496201157569885,
+        "shopping": 0.10119395703077316,
+        "bills": 0.15740080177783966,
+        "entertainment": 0.16441871225833893
+      }
+    },
+    {
+      "description": "Student loan received",
+      "expected_category": null,
+      "supported": false,
+      "predicted_category": "shopping",
+      "model_score": 0.556759238243103,
+      "needs_review": true,
+      "display_category": "needs review",
+      "review_reason": "Low model score",
+      "scores": {
+        "groceries": 0.029331127181649208,
+        "transport": 0.36605149507522583,
+        "shopping": 0.556759238243103,
+        "bills": 0.027269622310996056,
+        "entertainment": 0.02058853581547737
+      }
+    }
+  ]
+}

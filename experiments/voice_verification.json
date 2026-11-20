@@ -1,0 +1,12 @@
+{
+  "model_run_id": "20261120T170006911961Z-seed42",
+  "engine": "macOS system voice",
+  "transcript": "Your fictional transaction file contains 400 outgoing payments, from 1 September 2026 to 31 October 2026, totalling 22082 pounds and 25 pence. The largest predicted spending category is bills, at 7370 pounds and 85 pence. Categories are model estimates. Totals are calculated from the CSV.",
+  "total_pence": 2208225,
+  "sample_rate": 22050,
+  "frames": 504430,
+  "duration_seconds": 22.876643990929704,
+  "bytes": 1012956,
+  "audible_playback_verified": false,
+  "raspberry_pi_tested": false
+}

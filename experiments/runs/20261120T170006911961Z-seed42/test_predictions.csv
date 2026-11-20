@@ -1,0 +1,81 @@
+transaction_id,description,category,predicted_category,model_score,needs_review
+SB00293,Vodafone monthly service bill,bills,bills,0.9986355,False
+SB00118,Northern Rail return travel ticket,transport,transport,0.9986619,False
+SB00047,Asda weekly food basket,groceries,groceries,0.99810827,False
+SB00051,Coop fresh fruit and veg,groceries,groceries,0.99555415,False
+SB00337,Cineworld cinema tickets,entertainment,entertainment,0.9968527,False
+SB00163,Primark student supplies,shopping,shopping,0.9891991,False
+SB00350,Spotify music subscription,entertainment,entertainment,0.99872345,False
+SB00161,Primark clothes purchase,shopping,shopping,0.99309915,False
+SB00347,Spotify games purchase,entertainment,entertainment,0.9837991,False
+SB00120,Northern Rail rail travel,transport,transport,0.98595077,False
+SB00049,Coop weekly groceries,groceries,groceries,0.9981711,False
+SB00253,British Gas monthly service bill,bills,bills,0.99868506,False
+SB00165,Primark new shoes,shopping,shopping,0.98184377,False
+SB00292,Vodafone household utilities,bills,bills,0.9982522,False
+SB00341,Cineworld movie night,entertainment,entertainment,0.9948618,False
+SB00152,Metro Travel rail travel,transport,transport,0.9950772,False
+SB00052,Coop bread milk and eggs,groceries,groceries,0.996393,False
+SB00294,Vodafone energy or broadband bill,bills,bills,0.9980413,False
+SB00338,Cineworld streaming subscription,entertainment,entertainment,0.99933404,False
+SB00255,British Gas utilities direct debit,bills,bills,0.99903286,False
+SB00150,Metro Travel return travel ticket,transport,transport,0.9984577,False
+SB00291,Vodafone direct debit bill,bills,bills,0.99793124,False
+SB00119,Northern Rail student bus pass,transport,transport,0.99497366,False
+SB00041,Asda weekly groceries,groceries,groceries,0.9981811,False
+SB00352,Spotify entertainment subscription,entertainment,entertainment,0.999759,False
+SB00054,Coop food essentials,groceries,groceries,0.9978027,False
+SB00351,Spotify leisure tickets,entertainment,entertainment,0.99689364,False
+SB00146,Metro Travel train fare,transport,transport,0.9985343,False
+SB00235,Campus Store student supplies,shopping,shopping,0.95350707,False
+SB00114,Northern Rail train fare,transport,transport,0.9947391,False
+SB00116,Northern Rail transport journey,transport,transport,0.99826187,False
+SB00145,Metro Travel bus ticket,transport,transport,0.99863595,False
+SB00162,Primark shopping order,shopping,shopping,0.9959468,False
+SB00148,Metro Travel transport journey,transport,transport,0.99929833,False
+SB00349,Spotify movie night,entertainment,entertainment,0.99024093,False
+SB00234,Campus Store shopping order,shopping,shopping,0.9800969,False
+SB00113,Northern Rail bus ticket,transport,transport,0.99406624,False
+SB00345,Spotify cinema tickets,entertainment,entertainment,0.99775827,False
+SB00147,Metro Travel travel pass,transport,transport,0.9965829,False
+SB00164,Primark retail purchase,shopping,shopping,0.9868946,False
+SB00046,Asda food essentials,groceries,groceries,0.9977736,False
+SB00256,British Gas household bill payment,bills,bills,0.9990989,False
+SB00050,Coop food shop,groceries,groceries,0.9875618,False
+SB00344,Cineworld entertainment subscription,entertainment,entertainment,0.9998412,False
+SB00117,Northern Rail commute fare,transport,transport,0.9974744,False
+SB00149,Metro Travel commute fare,transport,transport,0.9992304,False
+SB00151,Metro Travel student bus pass,transport,transport,0.99890983,False
+SB00048,Asda groceries top up,groceries,groceries,0.9967986,False
+SB00252,British Gas household utilities,bills,bills,0.99812764,False
+SB00296,Vodafone household bill payment,bills,bills,0.99907565,False
+SB00044,Asda bread milk and eggs,groceries,groceries,0.9962231,False
+SB00250,British Gas utility payment,bills,bills,0.9971179,False
+SB00167,Primark online shopping,shopping,shopping,0.99621636,False
+SB00254,British Gas energy or broadband bill,bills,bills,0.99793386,False
+SB00238,Campus Store books and stationery,shopping,shopping,0.98767775,False
+SB00045,Asda supermarket groceries,groceries,groceries,0.9986331,False
+SB00166,Primark books and stationery,shopping,shopping,0.9967618,False
+SB00339,Cineworld games purchase,entertainment,entertainment,0.99183863,False
+SB00346,Spotify streaming subscription,entertainment,entertainment,0.9989108,False
+SB00236,Campus Store retail purchase,shopping,shopping,0.9406969,False
+SB00055,Coop weekly food basket,groceries,groceries,0.99807286,False
+SB00251,British Gas direct debit bill,bills,bills,0.9980046,False
+SB00290,Vodafone utility payment,bills,bills,0.9970251,False
+SB00053,Coop supermarket groceries,groceries,groceries,0.9986749,False
+SB00295,Vodafone utilities direct debit,bills,bills,0.99913186,False
+SB00056,Coop groceries top up,groceries,groceries,0.9960524,False
+SB00342,Cineworld music subscription,entertainment,entertainment,0.9991906,False
+SB00239,Campus Store online shopping,shopping,shopping,0.98447776,False
+SB00115,Northern Rail travel pass,transport,transport,0.9986203,False
+SB00042,Asda food shop,groceries,groceries,0.9911754,False
+SB00233,Campus Store clothes purchase,shopping,shopping,0.96889067,False
+SB00168,Primark clothing order,shopping,shopping,0.9969652,False
+SB00237,Campus Store new shoes,shopping,shopping,0.901416,False
+SB00043,Asda fresh fruit and veg,groceries,groceries,0.99527705,False
+SB00340,Cineworld entertainment booking,entertainment,entertainment,0.99888927,False
+SB00289,Vodafone monthly bill,bills,bills,0.9962786,False
+SB00240,Campus Store clothing order,shopping,shopping,0.9866775,False
+SB00348,Spotify entertainment booking,entertainment,entertainment,0.99814236,False
+SB00343,Cineworld leisure tickets,entertainment,entertainment,0.99831724,False
+SB00249,British Gas monthly bill,bills,bills,0.9963898,False

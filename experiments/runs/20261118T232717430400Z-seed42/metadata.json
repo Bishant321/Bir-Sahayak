@@ -1,0 +1,88 @@
+{
+  "run_id": "20261118T232717430400Z-seed42",
+  "timestamp_utc": "2026-11-18T23:27:17.430400+00:00",
+  "config": {
+    "project": "StudentBank AI",
+    "data": {
+      "path": "data/sample_transactions.csv",
+      "seed": 42,
+      "test_fraction": 0.2,
+      "validation_fraction": 0.2
+    },
+    "features": {
+      "analyzer": "char_wb",
+      "ngram_range": [
+        3,
+        5
+      ],
+      "max_features": 2000,
+      "lowercase": true
+    },
+    "training": {
+      "seed": 42,
+      "hidden_size": 64,
+      "dropout": 0.15,
+      "learning_rate": 0.003,
+      "epochs": 40,
+      "batch_size": 32,
+      "patience": 8
+    },
+    "inference": {
+      "review_threshold": 0.6
+    },
+    "paths": {
+      "model_directory": "models",
+      "experiment_directory": "experiments/runs"
+    }
+  },
+  "categories": [
+    "groceries",
+    "transport",
+    "shopping",
+    "bills",
+    "entertainment"
+  ],
+  "architecture": {
+    "input_size": 1290,
+    "hidden_size": 64,
+    "classes": 5,
+    "dropout": 0.15
+  },
+  "chosen_epoch": 40,
+  "epochs_completed": 40,
+  "best_validation_f1_macro": 1.0,
+  "dataset_sha256": "8e15a7eea113d27d086406cb03ce2267049b9c06a99dc08474f4b37d7a4bef78",
+  "source_sha256": {
+    "src/generate_data.py": "be11d5f721f4db1a3528c9497c5bed96775d2eb6dfbf32af3eb2c9c5d0622cdc",
+    "src/predict.py": "96ea8558848ae077c28276c5d6537f44f2fbad6410a89b3552df2c61456afad7",
+    "src/studentbank/__init__.py": "4e42eacebf06bd01ca44249ab7fdc5d4b41929e49c96e3701b9f8cbf43610b7d",
+    "src/studentbank/model.py": "aa672170530541a79f6e8ed405699516a65dfaaf22a8575f56f3aac57f97d54b",
+    "src/studentbank/settings.py": "047e7c79024315204fbbb96f80481ff7e37bdaeae10886adef6a03afb61ca8f6",
+    "src/studentbank/synthetic.py": "b15b2c1c0182c382afc88af31cb796f931b3ea711b75ae465cb3e33dc3d1c78d",
+    "src/studentbank/training.py": "3d0b444d80779d3e1db97a25e5b0916fc476784ae32f0b27398f3bb6aabfafd2",
+    "src/studentbank/transactions.py": "cdd7c64a906f8f7ac0f51c582a170e3358382f1388e6de3cb9b65c79b57bf069",
+    "src/train.py": "260b741d341d462b061c91da70aa3e4e4050b5c8f09f29e9c1fda36fb40e04ed"
+  },
+  "git": {
+    "revision": null,
+    "working_tree_has_uncommitted_files": null
+  },
+  "python": "3.14.3",
+  "device": "cpu",
+  "packages": {
+    "torch": "2.15.0",
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.5",
+    "pandas": "3.1.1",
+    "PyYAML": "6.0.3"
+  },
+  "partition_sizes": {
+    "train": 240,
+    "validation": 80,
+    "test": 80
+  },
+  "split_policy": "Stratified merchant-group holdout; group-disjoint train/validation/test; preprocessing fitted on train only.",
+  "feature_policy": "Description-only character TF-IDF; reference category and merchant_group are never features.",
+  "limitations": "400 synthetic examples generated from category-specific phrase templates. Merchants are held out, but phrase templates are shared. Scores do not establish real-bank accuracy. No real transactions, live bank integration, speech or physical gadget tested.",
+  "duration_seconds": 2.918
+}

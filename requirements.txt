@@ -1,0 +1,9 @@
+# Direct dependencies pinned to the tested Stage 1 environment.
+streamlit==1.67.0
+pandas==3.1.1
+numpy==2.5.5
+plotly==7.1.0
+torch==2.15.0
+scikit-learn==1.9.1
+PyYAML==6.0.3
+pytest==9.2.0

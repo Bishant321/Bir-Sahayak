@@ -1,0 +1,300 @@
+{
+  "run_id": "20261118T232717430400Z-seed42",
+  "test_results": {
+    "majority": {
+      "accuracy": 0.2,
+      "precision_macro": 0.04,
+      "recall_macro": 0.2,
+      "f1_macro": 0.06666666666666667,
+      "classification_report": {
+        "groceries": {
+          "precision": 0.2,
+          "recall": 1.0,
+          "f1-score": 0.3333333333333333,
+          "support": 16.0
+        },
+        "transport": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "shopping": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "bills": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "entertainment": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "accuracy": 0.2,
+        "macro avg": {
+          "precision": 0.04,
+          "recall": 0.2,
+          "f1-score": 0.06666666666666667,
+          "support": 80.0
+        },
+        "weighted avg": {
+          "precision": 0.04,
+          "recall": 0.2,
+          "f1-score": 0.06666666666666667,
+          "support": 80.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "category_order": [
+        "groceries",
+        "transport",
+        "shopping",
+        "bills",
+        "entertainment"
+      ],
+      "support": 80
+    },
+    "logistic_regression": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "classification_report": {
+        "groceries": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "transport": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "shopping": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "bills": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "entertainment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 80.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 80.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          16,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          16,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          16,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          16
+        ]
+      ],
+      "category_order": [
+        "groceries",
+        "transport",
+        "shopping",
+        "bills",
+        "entertainment"
+      ],
+      "support": 80
+    },
+    "pytorch_mlp": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "classification_report": {
+        "groceries": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "transport": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "shopping": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "bills": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "entertainment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 80.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 80.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          16,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          16,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          16,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          16
+        ]
+      ],
+      "category_order": [
+        "groceries",
+        "transport",
+        "shopping",
+        "bills",
+        "entertainment"
+      ],
+      "support": 80
+    }
+  },
+  "review_policy": {
+    "threshold": 0.6,
+    "coverage": 1.0,
+    "flagged_count": 0,
+    "accuracy_on_unflagged": 1.0,
+    "note": "Softmax scores are uncalibrated. Threshold is a review heuristic, not an out-of-distribution guarantee."
+  }
+}
